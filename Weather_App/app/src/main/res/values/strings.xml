@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather_App</string>
+    <string name="temp_in_celcius">%s°C</string>
+    <string name="max_temp_in_celcius">Max. Temperature : %s°C</string>
+    <string name="min_temp_in_celcius">Min. Temperature : %s°C</string>
+    <string name="wind_speed_in_km">%skm/hr</string>
+    <string name="time">%skm/hr</string>
+    <string name="cloud">Cloudy : %s%%</string>
+    <string name="humidity">Humidity : %s%%</string>
+    <string name="avg_humidity">Avg. Humidity : %s%%</string>
+    <string name="avg_visibility_km">Avg. Visibility : %skm</string>
+    <string name="precip_in_mm">Precipitation : %smm</string>
+    <string name="real_feel">Feels Like : %s°C</string>
+    <string name="sunrise">Sunrise : %s</string>
+    <string name="sunset">Sunset : %s</string>
+    <string name="moonrise">Moonrise : %s</string>
+    <string name="moonset">Moonset : %s</string>
+    <string name="visibility_km">Visibility : %skm</string>
+    <string name="temp_in_celcius_1">Temperature : %s°C</string>
+    <string name="wind_speed_in_km_1">Wind Speed : %skm/hr</string>
+    <string name="wind_direction">Wind Dir : %s</string>
+    <string name="uv_value">UV : %s</string>
+    <string name="pressure">Pressure : %smb</string>
+</resources>
