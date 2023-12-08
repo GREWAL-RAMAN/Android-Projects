@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/inbox">
+
+    <fragment
+        android:id="@+id/inbox"
+        android:name="com.grewal.chatapp.fragment.Inbox"
+        android:label="Inbox"
+        tools:layout="@layout/fragment_inbox" >
+        <action
+            android:id="@+id/action_inbox_to_sent"
+            app:destination="@id/sent" />
+        <action
+            android:id="@+id/action_inbox_to_spam"
+            app:destination="@id/spam" />
+        <action
+            android:id="@+id/action_inbox_to_starred"
+            app:destination="@id/starred" />
+        <action
+            android:id="@+id/action_inbox_to_promotion"
+            app:destination="@id/promotion" />
+    </fragment>
+    <fragment
+        android:id="@+id/promotion"
+        android:name="com.grewal.chatapp.fragment.Promotion"
+        android:label="Promotion"
+        tools:layout="@layout/fragment_promotion" >
+        <action
+            android:id="@+id/action_promotion_to_inbox"
+            app:destination="@id/inbox" />
+        <action
+            android:id="@+id/action_promotion_to_starred"
+            app:destination="@id/starred" />
+        <action
+            android:id="@+id/action_promotion_to_sent"
+            app:destination="@id/sent" />
+        <action
+            android:id="@+id/action_promotion_to_spam"
+            app:destination="@id/spam" />
+    </fragment>
+    <fragment
+        android:id="@+id/sent"
+        android:name="com.grewal.chatapp.fragment.Sent"
+        android:label="Sent"
+        tools:layout="@layout/fragment_sent" >
+        <action
+            android:id="@+id/action_sent_to_spam"
+            app:destination="@id/spam" />
+        <action
+            android:id="@+id/action_sent_to_inbox"
+            app:destination="@id/inbox" />
+        <action
+            android:id="@+id/action_sent_to_starred"
+            app:destination="@id/starred" />
+        <action
+            android:id="@+id/action_sent_to_promotion"
+            app:destination="@id/promotion" />
+    </fragment>
+    <fragment
+        android:id="@+id/starred"
+        android:name="com.grewal.chatapp.fragment.Starred"
+        android:label="Starred"
+        tools:layout="@layout/fragment_starred" >
+        <action
+            android:id="@+id/action_starred_to_promotion"
+            app:destination="@id/promotion" />
+        <action
+            android:id="@+id/action_starred_to_inbox"
+            app:destination="@id/inbox" />
+        <action
+            android:id="@+id/action_starred_to_sent"
+            app:destination="@id/sent" />
+        <action
+            android:id="@+id/action_starred_to_spam"
+            app:destination="@id/spam" />
+    </fragment>
+    <fragment
+        android:id="@+id/spam"
+        android:name="com.grewal.chatapp.fragment.Spam"
+        android:label="Spam"
+        tools:layout="@layout/fragment_spam" >
+        <action
+            android:id="@+id/action_spam_to_starred"
+            app:destination="@id/starred" />
+        <action
+            android:id="@+id/action_spam_to_sent"
+            app:destination="@id/sent" />
+        <action
+            android:id="@+id/action_spam_to_inbox"
+            app:destination="@id/inbox" />
+        <action
+            android:id="@+id/action_spam_to_promotion"
+            app:destination="@id/promotion" />
+    </fragment>
+</navigation>

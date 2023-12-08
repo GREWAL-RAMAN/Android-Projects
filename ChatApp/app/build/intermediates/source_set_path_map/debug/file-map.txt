@@ -1,0 +1,57 @@
+com.grewal.chatapp-emoji2-1.2.0-0 C:\Users\grewa\.gradle\caches\transforms-3\0d4604f4b59112aa79c87a2cf38c8eee\transformed\emoji2-1.2.0\res
+com.grewal.chatapp-navigation-fragment-ktx-2.7.4-1 C:\Users\grewa\.gradle\caches\transforms-3\13cdea5efbb14951f4aeb7ebf4c1cf9a\transformed\navigation-fragment-ktx-2.7.4\res
+com.grewal.chatapp-lifecycle-runtime-ktx-2.6.2-2 C:\Users\grewa\.gradle\caches\transforms-3\2d5317ae86bfbe7135603ad211d11d28\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.grewal.chatapp-lifecycle-runtime-2.6.2-3 C:\Users\grewa\.gradle\caches\transforms-3\33e3081d986cdb80ea6cbd2837a92929\transformed\lifecycle-runtime-2.6.2\res
+com.grewal.chatapp-core-ktx-1.9.0-4 C:\Users\grewa\.gradle\caches\transforms-3\359a86abc700eafa4cf9423e4b2cee52\transformed\core-ktx-1.9.0\res
+com.grewal.chatapp-coordinatorlayout-1.1.0-5 C:\Users\grewa\.gradle\caches\transforms-3\3d81454286c5b803cd326a1c05550489\transformed\coordinatorlayout-1.1.0\res
+com.grewal.chatapp-emoji2-views-helper-1.2.0-6 C:\Users\grewa\.gradle\caches\transforms-3\409e31a79fcd91ad7ef754bdafd45360\transformed\emoji2-views-helper-1.2.0\res
+com.grewal.chatapp-savedstate-ktx-1.2.1-7 C:\Users\grewa\.gradle\caches\transforms-3\43677d8fa25fca7e585ec8c8ed85ade5\transformed\savedstate-ktx-1.2.1\res
+com.grewal.chatapp-profileinstaller-1.3.0-8 C:\Users\grewa\.gradle\caches\transforms-3\4a4f2bc2032aa580c8e04e510f5e01b5\transformed\profileinstaller-1.3.0\res
+com.grewal.chatapp-annotation-experimental-1.3.0-9 C:\Users\grewa\.gradle\caches\transforms-3\4d19559a925da8f7d743d917f88b0d94\transformed\annotation-experimental-1.3.0\res
+com.grewal.chatapp-lifecycle-livedata-core-2.6.2-10 C:\Users\grewa\.gradle\caches\transforms-3\527094256075b9584f7060d1914760d7\transformed\lifecycle-livedata-core-2.6.2\res
+com.grewal.chatapp-drawerlayout-1.1.1-11 C:\Users\grewa\.gradle\caches\transforms-3\57ece5d70bfcf895eedcae7288103047\transformed\drawerlayout-1.1.1\res
+com.grewal.chatapp-navigation-ui-ktx-2.7.4-12 C:\Users\grewa\.gradle\caches\transforms-3\5b030a32929229a0ea816e2903f523a3\transformed\navigation-ui-ktx-2.7.4\res
+com.grewal.chatapp-lifecycle-livedata-2.6.2-13 C:\Users\grewa\.gradle\caches\transforms-3\5b3268f3542ab60500999915be90ed63\transformed\lifecycle-livedata-2.6.2\res
+com.grewal.chatapp-appcompat-resources-1.6.1-14 C:\Users\grewa\.gradle\caches\transforms-3\5e1b30671511c05d449dd0670a70c332\transformed\appcompat-resources-1.6.1\res
+com.grewal.chatapp-fragment-ktx-1.6.0-15 C:\Users\grewa\.gradle\caches\transforms-3\60de05a7cd09b7aa787809844b3075fa\transformed\fragment-ktx-1.6.0\res
+com.grewal.chatapp-navigation-fragment-2.7.4-16 C:\Users\grewa\.gradle\caches\transforms-3\627b57b1b3f114dce380d6c30ee12369\transformed\navigation-fragment-2.7.4\res
+com.grewal.chatapp-viewpager2-1.0.0-17 C:\Users\grewa\.gradle\caches\transforms-3\62fd00be9ad4591bb9dbe31c5a915f73\transformed\viewpager2-1.0.0\res
+com.grewal.chatapp-activity-ktx-1.7.1-18 C:\Users\grewa\.gradle\caches\transforms-3\63e7ca5f3cf46664f628d5797623221b\transformed\activity-ktx-1.7.1\res
+com.grewal.chatapp-firebase-common-20.3.3-19 C:\Users\grewa\.gradle\caches\transforms-3\657bb7f32d625a5974d1759239220084\transformed\firebase-common-20.3.3\res
+com.grewal.chatapp-navigation-common-2.7.4-20 C:\Users\grewa\.gradle\caches\transforms-3\6cfc1e8caa6928f5d217954690ce0d39\transformed\navigation-common-2.7.4\res
+com.grewal.chatapp-core-1.9.0-21 C:\Users\grewa\.gradle\caches\transforms-3\75a27e8f1c9564d526a517def7853fed\transformed\core-1.9.0\res
+com.grewal.chatapp-transition-1.4.1-22 C:\Users\grewa\.gradle\caches\transforms-3\807ec0f2caef17473dbc6ea570aec021\transformed\transition-1.4.1\res
+com.grewal.chatapp-lifecycle-livedata-core-ktx-2.6.2-23 C:\Users\grewa\.gradle\caches\transforms-3\80e1b8b09d274b9831800cff18c9be8f\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.grewal.chatapp-window-1.0.0-24 C:\Users\grewa\.gradle\caches\transforms-3\8145e87972ced8fa917e6b859b31e753\transformed\window-1.0.0\res
+com.grewal.chatapp-activity-1.7.1-25 C:\Users\grewa\.gradle\caches\transforms-3\87b553649f256690d8884adc843e1148\transformed\activity-1.7.1\res
+com.grewal.chatapp-savedstate-1.2.1-26 C:\Users\grewa\.gradle\caches\transforms-3\931ec8f4b78042080d820d0a68281453\transformed\savedstate-1.2.1\res
+com.grewal.chatapp-play-services-auth-20.7.0-27 C:\Users\grewa\.gradle\caches\transforms-3\9c0d1c6cace5449a943aa7e5bdcc411a\transformed\play-services-auth-20.7.0\res
+com.grewal.chatapp-lifecycle-viewmodel-savedstate-2.6.2-28 C:\Users\grewa\.gradle\caches\transforms-3\a3c046286f1b16656a2afcb4f563ffc3\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.grewal.chatapp-lifecycle-viewmodel-2.6.2-29 C:\Users\grewa\.gradle\caches\transforms-3\ab33ce38596932dc4a87cc85550c2a3e\transformed\lifecycle-viewmodel-2.6.2\res
+com.grewal.chatapp-play-services-basement-18.2.0-30 C:\Users\grewa\.gradle\caches\transforms-3\ad3b2433c6098f8ccabb5f5b9c8271f6\transformed\play-services-basement-18.2.0\res
+com.grewal.chatapp-appcompat-1.6.1-31 C:\Users\grewa\.gradle\caches\transforms-3\b84b71472f3cd83a8699a2a71c067ba7\transformed\appcompat-1.6.1\res
+com.grewal.chatapp-constraintlayout-2.1.4-32 C:\Users\grewa\.gradle\caches\transforms-3\bd3385d856b77964b1d7840ecfa94e30\transformed\constraintlayout-2.1.4\res
+com.grewal.chatapp-glide-4.16.0-33 C:\Users\grewa\.gradle\caches\transforms-3\be6a025b88564c46d13ef62747a55b4f\transformed\glide-4.16.0\res
+com.grewal.chatapp-fragment-1.6.0-34 C:\Users\grewa\.gradle\caches\transforms-3\bf7895c6b92f05de82da7c2f41abfd1c\transformed\fragment-1.6.0\res
+com.grewal.chatapp-play-services-base-18.1.0-35 C:\Users\grewa\.gradle\caches\transforms-3\c40f4d37db4adb7298651fbf5ce272ad\transformed\play-services-base-18.1.0\res
+com.grewal.chatapp-navigation-common-ktx-2.7.4-36 C:\Users\grewa\.gradle\caches\transforms-3\d07b31f9e39dac81b7248c49511ed0f6\transformed\navigation-common-ktx-2.7.4\res
+com.grewal.chatapp-core-runtime-2.2.0-37 C:\Users\grewa\.gradle\caches\transforms-3\d3134db3b2f8692eb2949476dc3094cd\transformed\core-runtime-2.2.0\res
+com.grewal.chatapp-material-1.9.0-38 C:\Users\grewa\.gradle\caches\transforms-3\dcc7b49540b5c986f5bc4dd76fbe970a\transformed\material-1.9.0\res
+com.grewal.chatapp-lifecycle-process-2.6.2-39 C:\Users\grewa\.gradle\caches\transforms-3\e5e851c67267e640e5f69e0244a399d4\transformed\lifecycle-process-2.6.2\res
+com.grewal.chatapp-startup-runtime-1.1.1-40 C:\Users\grewa\.gradle\caches\transforms-3\e6c47a1efdf67f337132fee7ade8f08f\transformed\startup-runtime-1.1.1\res
+com.grewal.chatapp-navigation-runtime-ktx-2.7.4-41 C:\Users\grewa\.gradle\caches\transforms-3\ef8f0bc1396278aa8a804d7cc7760fa4\transformed\navigation-runtime-ktx-2.7.4\res
+com.grewal.chatapp-recyclerview-1.1.0-42 C:\Users\grewa\.gradle\caches\transforms-3\f0b83725a5d44bf3d9e56d27b4127a66\transformed\recyclerview-1.1.0\res
+com.grewal.chatapp-navigation-ui-2.7.4-43 C:\Users\grewa\.gradle\caches\transforms-3\f1f3101cbc68bb3796df6dff8b054be7\transformed\navigation-ui-2.7.4\res
+com.grewal.chatapp-slidingpanelayout-1.2.0-44 C:\Users\grewa\.gradle\caches\transforms-3\f4bf1b7b3fbace85bac4ba58d10d5219\transformed\slidingpanelayout-1.2.0\res
+com.grewal.chatapp-navigation-runtime-2.7.4-45 C:\Users\grewa\.gradle\caches\transforms-3\f7597f03b7ee9d14108df176aa67f982\transformed\navigation-runtime-2.7.4\res
+com.grewal.chatapp-cardview-1.0.0-46 C:\Users\grewa\.gradle\caches\transforms-3\f984d708ca4fa154005c1d357864bdb4\transformed\cardview-1.0.0\res
+com.grewal.chatapp-lifecycle-viewmodel-ktx-2.6.2-47 C:\Users\grewa\.gradle\caches\transforms-3\f9b905302a4709de61ee26b1901d8092\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.grewal.chatapp-browser-1.4.0-48 C:\Users\grewa\.gradle\caches\transforms-3\faf6a97047cea002925ba1c4d6495dee\transformed\browser-1.4.0\res
+com.grewal.chatapp-pngs-49 D:\Android Studio Projects\ChatApp\app\build\generated\res\pngs\debug
+com.grewal.chatapp-res-50 D:\Android Studio Projects\ChatApp\app\build\generated\res\processDebugGoogleServices
+com.grewal.chatapp-resValues-51 D:\Android Studio Projects\ChatApp\app\build\generated\res\resValues\debug
+com.grewal.chatapp-packageDebugResources-52 D:\Android Studio Projects\ChatApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.grewal.chatapp-packageDebugResources-53 D:\Android Studio Projects\ChatApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.grewal.chatapp-merged_res-54 D:\Android Studio Projects\ChatApp\app\build\intermediates\merged_res\debug
+com.grewal.chatapp-debug-55 D:\Android Studio Projects\ChatApp\app\src\debug\res
+com.grewal.chatapp-main-56 D:\Android Studio Projects\ChatApp\app\src\main\res

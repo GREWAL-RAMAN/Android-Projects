@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:weightSum="30">
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioGroup"
+        android:orientation="horizontal"
+        >
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/Simple_message_button"
+            android:layout_weight="1"
+            android:text="Primary"
+            />
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/Promotion_button"
+            android:layout_weight="1"
+            android:text="Promotion"/>
+    </RadioGroup>
+    <Spinner
+        android:id="@+id/recipients"
+        android:layout_width="match_parent"
+        android:layout_weight="20"
+        android:layout_height="50dp" />
+
+    <EditText
+        android:layout_weight="15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:id="@+id/message"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/send"
+        android:text="send"
+        android:textSize="18sp"
+        android:layout_weight="1"
+        android:layout_gravity="right"
+        />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

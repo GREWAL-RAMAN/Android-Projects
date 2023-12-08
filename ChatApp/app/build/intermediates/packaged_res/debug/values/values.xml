@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorDarkGray">#464646</color>
+    <color name="colorItemLeft">#E6E4E4</color>
+    <color name="colorItemRight">#813fd7</color>
+    <color name="colorPrimary">#813fd7</color>
+    <color name="colorPrimaryDark">#813fd7</color>
+    <color name="colorText">#464646</color>
+    <color name="colorTextBackground">#f5f5f5</color>
+    <color name="colorWhite">#fff</color>
+    <color name="ic_launcher_background">#B3ADAD</color>
+    <color name="red">#A60000</color>
+    <color name="selectedChatMessage">#A2D7DD</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Chat App</string>
+    <string name="default_web_client_id">330310248510-7jce7a0fev6525i86ep2oprruhpbkjnj.apps.googleusercontent.com</string>
+    <string name="email_of_user">Email : %s</string>
+    <string name="enter_the_message">Enter the Message</string>
+    <string name="gcm_defaultSenderId" translatable="false">330310248510</string>
+    <string name="google_api_key" translatable="false">AIzaSyAUUcxUe2VD40NCAdbuTfjCgVDbFe8U_ss</string>
+    <string name="google_app_id" translatable="false">1:330310248510:android:5f3f88fc600acff598c96f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAUUcxUe2VD40NCAdbuTfjCgVDbFe8U_ss</string>
+    <string name="google_storage_bucket" translatable="false">chat-app-9c085.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="inbox_fragment">This is Inbox fragment</string>
+    <string name="name_of_user">Name : %s</string>
+    <string name="project_id" translatable="false">chat-app-9c085</string>
+    <string name="promotion_fragment">This is Promotion fragment</string>
+    <string name="sent_fragment">This is Sent fragment</string>
+    <string name="spam_fragment">This is Spam fragment</string>
+    <string name="starred_fragment">This is Starred fragment</string>
+    <style name="Base.Theme.ChatApp" parent="Theme.Material3.DayNight">
+        
+        
+    </style>
+    <style name="Theme.ChatApp" parent="Base.Theme.ChatApp"/>
+</resources>

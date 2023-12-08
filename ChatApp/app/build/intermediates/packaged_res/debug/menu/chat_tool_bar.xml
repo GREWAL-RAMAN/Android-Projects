@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/star_icon"
+        android:title="Starred"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/starred_icon"/>
+    <item
+        android:id="@+id/spam_icon"
+        android:title="Spam"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/span_icon"/>
+
+</menu>
